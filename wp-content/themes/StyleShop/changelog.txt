@@ -1,0 +1,40 @@
+version 1.2 ( updated 05-02-2013 )
+- Fixed menu links decoration in IE9
+- Removed fitVids, made youtube old embed code work on iPad.
+- Added readme.url file.
+- Integrated Google Fonts options into Customizer
+- Fixed posts update notification messages in WP-Admin
+
+List of modified files:
+epanel/custom_functions.php
+epanel/google-fonts/et_google_fonts.css
+epanel/google-fonts/et_google_fonts.js
+epanel/google-fonts/images/all-fonts.png
+epanel/options_styleshop.php
+functions.php
+js/custom.js
+js/jquery.fitvids.js
+lang/de_DE.mo
+lang/de_DE.po
+lang/en_US.mo
+lang/en_US.po
+lang/ru_RU.mo
+lang/ru_RU.po
+readme.url
+style.css
+
+version 1.1 ( updated 03-07-2013 )
+- Full compatibility with WooCommerce 2.0
+- Integrated the default WordPress image system. It makes the theme work better on shared hostings and provides compatibility with plugins ( JetPack, WP Retina etc. )
+- Full compatiblity with WPML plugin
+- Fixed the checkout page layout issues on mobile devices
+- Fixed the issue with price, equal to 0 on Variable products
+- Added 'Custom CSS' option to ePanel
+- Added Subcategories support on product and category pages
+- Integrated different images for variations functionality
+
+Nearly all files have been updated this time. Please, make sure you update all files.
+
+version 1.0
+
+- initial release
